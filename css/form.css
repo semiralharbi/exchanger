@@ -1,0 +1,37 @@
+.container__data{
+    margin: auto;
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+    padding: 12px;
+    
+}
+
+
+.form__fieldset{
+    border-radius: 20px;
+    
+}
+
+.form__legend{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.form__button{
+    background-color: hsl(210, 33%, 13%);
+    color: #FEE715FF;
+    border-radius: 20px;
+    margin: 30px;
+}
+.form__button:hover{
+    background-color: hsl(210, 33%, 20%);
+}
+
+.container__paragraph{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    height: 50px;
+}
+
