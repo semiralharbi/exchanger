@@ -4,7 +4,7 @@ html {
     line-height: 1.5;
     background-color: #101820FF;
     color:#FEE715FF;
-    background: center / cover no-repeat  url("/images/dollars.jpg");
+    background: center / cover no-repeat  url("/images/dollars.JPG");
 }
 
 *, ::after, ::before {
